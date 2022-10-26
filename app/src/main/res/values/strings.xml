@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareDic</string>
+    <string name="app_upgrade">检测更新</string>
+    <string name="app_feelback">意见反馈</string>
+    <string name="dic_download">词库下载</string>
+    <string name="bot_download">主程序下载</string>
+</resources>
